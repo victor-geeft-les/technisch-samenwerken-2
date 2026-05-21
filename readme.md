@@ -4,7 +4,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu finibus lacus,
 
 Cras eros massa, interdum eu orci sed, euismod semper neque. Proin sodales turpis a felis feugiat eleifend. Aenean tristique quam sapien, vel viverra lacus faucibus sit amet. Suspendisse semper nulla lorem, sit amet luctus mauris mollis quis. Morbi in aliquet ligula. Ut sollicitudin et lacus eget dapibus. Suspendisse potenti. Morbi semper lacus vitae ipsum convallis consectetur. Integer pretium lorem magna, a varius neque condimentum eu. Aliquam convallis venenatis odio ut molestie. Proin at nulla est. Suspendisse faucibus, mi eget efficitur consectetur, augue leo venenatis urna, sit amet mollis enim enim at tellus. Sed vitae lectus at nunc sagittis consectetur. In a commodo dui. Ut aliquam eu orci quis pharetra. In auctor, diam at efficitur maximus, arcu dui scelerisque tortor, non commodo velit leo in diam.
 
-Phasellus purus enim, imperdiet eget elit ac, lobortis egestas metus. Proin volutpat metus a dignissim vulputate. Nulla aliquet ut nibh et lobortis. Nullam nec laoreet lectus. Nullam varius cursus quam, in accumsan odio placerat congue. Suspendisse vel ante pellentesque, elementum nisl nec, vehicula sem. Cras eget erat tempus, facilisis nulla vitae, finibus risus. Cras vulputate iaculis ante, id commodo orci tempus quis. Nunc diam tortor, auctor ac commodo ac, rutrum eu urna. In tristique velit vel malesuada consectetur. Nam pulvinar congue quam, at eleifend lacus venenatis at. Fusce id luctus quam, sit amet condimentum diam. Aenean ornare neque hendrerit nibh feugiat euismod. Pellentesque imperdiet magna ut nisi sodales blandit.
+## Alinea 7
+### Le fishe
+```
+function leFishe(){
+    console.log("Hello")
+    console.log("🐟")
+}
+```
 
 Duis rhoncus massa id risus fringilla, at vehicula tortor condimentum. Suspendisse malesuada fermentum urna, quis sodales augue tempus sit amet. Quisque at molestie massa, vel varius magna. Nam non imperdiet nisl. Quisque rhoncus imperdiet dolor, sollicitudin pellentesque justo sollicitudin et. Pellentesque vitae suscipit enim. Phasellus eros nisl, varius at elementum quis, vehicula in mauris. Aliquam porta felis augue, quis volutpat lectus dictum eget. Praesent ultricies quis elit euismod molestie. Nunc et sollicitudin lacus. In sit amet mattis turpis.
 
